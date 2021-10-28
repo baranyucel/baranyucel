@@ -1,9 +1,8 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=cobanov&show_icons=true">
 
-# Merhaba, ben Baran Yücel! 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cobanov" alt="baranyucel" /> </p>
+# Merhaba, ben Baran Yücel!
 
-[![](https://img.shields.io/twitter/follow/mertcobanov?style=social)](https://twitter.com/zbaranyucel)
+[![](https://medium.com/@baranyucel)](https://twitter.com/zbaranyucel)
 [![](https://img.shields.io/github/followers/cobanov?style=social)](https://github.com/baranyucel)
 
 
