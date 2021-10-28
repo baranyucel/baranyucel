@@ -3,7 +3,6 @@
 # Merhaba, ben Baran Yücel!
 
 [![](https://medium.com/@baranyucel)](https://twitter.com/zbaranyucel)
-[![](https://img.shields.io/github/followers/cobanov?style=social)](https://github.com/baranyucel)
 
 
 [![](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/zbaranyucel)
